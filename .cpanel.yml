@@ -2,4 +2,4 @@ ___
 deployment:
   tasks:
     - export DEPLOYPATH=/home3/escatec1/public_html/replay-esca-tech/
-    - /bin/cp test.txt $DEPLOYPATH
+    - /bin/cp test.Html $DEPLOYPATH
