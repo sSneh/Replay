@@ -2,4 +2,4 @@ ___
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/replay-esca-tech
-    - /bin/cp -R Replay $DEPLOYPATH
+    - /bin/cp -R ./ $DEPLOYPATH
