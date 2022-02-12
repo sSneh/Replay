@@ -1,5 +1,5 @@
 var YOUR_CLIENT_ID = '1000827216924-g38shlpf64dd2b4s2oihod0vqmf191u7.apps.googleusercontent.com';
-var YOUR_REDIRECT_URI = 'https://replay.esca.tech';
+var YOUR_REDIRECT_URI = 'https://replay.esca.tech/home.php';
 var fragmentString = location.hash.substring(1);
 
 // Parse query string to see if page request is coming from OAuth 2.0 server.
